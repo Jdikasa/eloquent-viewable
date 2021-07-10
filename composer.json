@@ -1,9 +1,9 @@
 {
-    "name": "cyrildewit/eloquent-viewable",
+    "name": "jdikasa/eloquent-viewable",
     "description": "Laravel package that allows you to associate views with Eloquent models",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/cyrildewit/eloquent-viewable",
+    "homepage": "https://github.com/Jdikasa/eloquent-viewable",
     "keywords": [
         "laravel",
         "eloquent",
@@ -16,9 +16,8 @@
     ],
     "authors": [
         {
-            "name": "Cyril de Wit",
-            "email": "info@cyrildewit.nl",
-            "homepage": "http://cyrildewit.nl",
+            "name": "Jean-Louis Dikasa",
+            "email": "jdikasa@yahoo.com",
             "role": "Developer"
         }
     ],
