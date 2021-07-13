@@ -10,7 +10,26 @@ return [
     'models' => [
 
         /*
-         * Here you can configure the default `View` model.
+         * Here you can configure the default `View` model.   
+         * 
+        
+         "ctf0/media-manager": "^3.7",
+         "php": "^7.0|^7.2|^8.0",
+        "albertcht/invisible-recaptcha": "^1.9",
+        "algolia/scout-extended": "^1.9",
+        "fideloper/proxy": "^4.0",
+        "google/apiclient": "^2.8",
+        "guzzlehttp/guzzle": "6.4.1",
+        "laravel/framework": "^6.2",
+        "laravel/scout": "^8.3",
+        "laravel/tinker": "^2.0",
+        "spatie/laravel-analytics": "^3.10",
+        "tcg/voyager": "^1.4",
+        "teamtnt/laravel-scout-tntsearch-driver": "^9.0",
+        "unisharp/laravel-filemanager": "^2.2",
+        "cyrildewit/eloquent-viewable": "^6.0"
+
+         
          */
         'view' => [
 
